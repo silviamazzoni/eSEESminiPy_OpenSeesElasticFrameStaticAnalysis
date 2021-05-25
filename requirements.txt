@@ -9,5 +9,3 @@ numpy ~=1.18.5
 pandas ~=1.0.4
 eSEESminiPy ~=0.0.21
 openseespy ~=3.2.2.10
-requests
-json
